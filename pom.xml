@@ -9,7 +9,6 @@
 	<version>0.0.1-RELEASE</version> 
 	<packaging>jar</packaging>
 	<name>currency-exchange</name>
-
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
